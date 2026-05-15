@@ -27,17 +27,6 @@ url: "http://netcrystal.us"" # the base hostname & protocol for your site, e.g. 
 twitter_username: 
 github_username: valeriejcini 
 
-lsi: false
-safe: true
-source: https://github.com/Valeriejcini/Netcrystal
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
 
 # Build settings
 theme: minima
