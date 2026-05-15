@@ -23,7 +23,7 @@ email: val@netcrystal.us
 description: >- # this means to ignore newlines until "baseurl:"
   Yesterday's internet, today!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://netcrystal.us"" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://netcrystal.us" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: valeriejcini 
 
